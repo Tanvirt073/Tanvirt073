@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tanvir Ahmed
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence
+- 🌱 I’m currently learning Deep learing
+- 💞️ I’m looking to collaborate on Data Science
+- 📫 How to reach me "tanvirt073@gmail.com"
